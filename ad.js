@@ -1,0 +1,2 @@
+document.write('<a href="http://tracking.groupon.com/r?tsToken=US_AFF_0_200579_246567_0&url=https%3A%2F%2Fwww.groupon.com%2Foccasion%2Fbest-of-groupon%3Fz%3Dskip%26utm_medium%3Dafl%26utm_source%3DGPN%26utm_campaign%3D200579%26mediaId%3D246567&wid=http://www.local-hairsalons.com"><img src="http://partner-ts.groupon.com/track/impression/image?tsToken=US_AFF_0_200579_246567_0&wid=http://www.local-hairsalons.com" width="300" height="250" alt="Best of Groupon 2015" />
+</a>')
